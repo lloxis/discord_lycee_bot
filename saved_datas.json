@@ -1,0 +1,28 @@
+[
+    {
+        "guildID": "1",
+        "datas": {
+            "appel": [
+                {
+                    "appelMessageID": "45646",
+                    "appelCreatorID": "485644",
+                    "appelChannelID": "653546346",
+                    "elevesRoleName": "TS3"
+                }
+            ]
+        }
+    },
+    {
+        "guildID": "530467048472576000",
+        "datas": {
+            "appel": [
+                {
+                    "appelMessageID": "689894846596513806",
+                    "appelCreatorID": "485644",
+                    "appelChannelID": "530467049135144982",
+                    "elevesRoleName": "TS3"
+                }
+            ]
+        }
+    }
+]
